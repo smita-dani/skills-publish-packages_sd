@@ -9,3 +9,4 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'failure' }}
     steps:
       - run: curl -X POST -H 'Content-type:application/json' --data '{"text":"Hello, World!"}' ${{SLACK_WEBHOOK_URL}}
+    else:
