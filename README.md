@@ -1,4 +1,4 @@
-<header>
+<header>😊
 
 <!--
   <<< Author notes: Course header >>>
@@ -19,7 +19,7 @@ _Use GitHub Actions to publish your project to a Docker image._
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Pull your image
+## Step 4: Pull your image 
 
 _Now things are running! :sparkles:_
 
